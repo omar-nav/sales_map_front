@@ -8,7 +8,7 @@ export default (props) => {
 
   return (
     < div className="filterMunicipios" >
-      <h2>ventas en Ciudad de México en 2017 de marzo a mayo</h2>
+      <h2>Ventas en Ciudad de México en 2017 de marzo a mayo</h2>
       <select defaultValue="*"
         type="select"
         name="filteralcadias"
